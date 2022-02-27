@@ -1,0 +1,22 @@
+// ----------------------  SITE COLORS  ----------------------
+
+$blue: 			#1442a0;
+$teal: 			#1a7a90;
+$white:         #ffffff;
+
+
+// ----------------------  TYPEFACES  ----------------------
+
+// google fonts or typekit import
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
+
+$merriweather: 			'Merriweather', serif;
+$montserrat: 			'Montserrat', sans-serif;
+
+
+// ----------------------  BREAKPOINTS  ----------------------
+
+$x-large:   1500px;
+$large:     1200px;
+$medium:    1000px;
+$small:     650px;
